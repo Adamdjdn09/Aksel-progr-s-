@@ -1,15 +1,15 @@
 {
  "id": "./",
- "name": "Portail Étudiant | بوابة الطالب",
- "short_name": "Portail",
- "description": "Student portal – Université de Béjaïa",
+ "name": "بوابة الطالب",
+ "short_name": "بوابة الطالب",
+ "description": "Student portal",
  "start_url": "./",
  "scope": "./",
  "display": "standalone",
  "orientation": "portrait",
  "background_color": "#101214",
  "theme_color": "#101214",
- "lang": "fr",
+ "lang": "ar",
  "dir": "auto",
  "categories": [
   "education"
